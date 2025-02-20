@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://license4j.github.io/sitemap.xml
